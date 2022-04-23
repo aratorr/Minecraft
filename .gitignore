@@ -52,3 +52,10 @@ servers.dat_old
 slotlock.json
 TrashSlotSaveState
 usercache.json
+
+git2-381caf5.dll
+git2-785d8c4.dll
+git2-baa87df.dll
+gitnano.exe
+LibGit2Sharp.dll
+UpdateGitNano.bat
