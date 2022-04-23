@@ -34,7 +34,7 @@ modifiers.key.hotbar.8:
 modifiers.key.hotbar.9:
 modifiers.key.big_items_duh.toggle_zoom:
 modifiers.key.big_items_duh.hold_zoom:
-modifiers.key.custom-crosshair-mod.edit_crosshair:key.keyboard.left.shift
+modifiers.key.custom-crosshair-mod.edit_crosshair:key.keyboard.left.alt
 modifiers.key.dynamicfps.toggle_forced:
 modifiers.key.dynamicfps.toggle_disabled:
 modifiers.key.emotecraft.fastchoose:
