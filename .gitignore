@@ -10,8 +10,8 @@ tl.args
 tl.bootargs
 TL.exe
 tl.properties
-uninst000.dat
-uninst000.exe
+unins000.dat
+unins000.exe
 
 launcher_profiles.json
 tlauncher_profiles.json
@@ -58,4 +58,4 @@ git2-785d8c4.dll
 git2-baa87df.dll
 gitnano.exe
 LibGit2Sharp.dll
-UpdateGitNano.bat
+Minecraft.bat
