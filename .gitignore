@@ -38,5 +38,5 @@ patchouli_data.json
 servers.dat.bak
 servers.dat_old
 slotlock.json
-TrashSlotSaveState
+TrashSlotSaveState.json
 usercache.json
