@@ -1,3 +1,3 @@
-gitnano.exe https://github.com/vpuhoff/GitNanoCompiled.git Updates
+gitnano.exe https://github.com/aratorr/Minecraft Updates
 copy Updates\*.* *.* /Y
 pause
