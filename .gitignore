@@ -40,3 +40,6 @@ servers.dat_old
 slotlock.json
 TrashSlotSaveState.json
 usercache.json
+
+advancedchat/saved_lines.json
+servers.dat
