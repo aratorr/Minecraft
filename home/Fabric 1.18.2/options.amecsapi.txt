@@ -121,9 +121,6 @@ key_modifiers_key.inventoryhud.togglepot:0,0,0
 key_modifiers_key.inventoryhud.togglearm:0,0,0
 key_modifiers_key.inventoryhud.toggleall:0,0,0
 key_modifiers_key.inventorysorter.sort:0,0,0
-key_modifiers_iris.keybind.reload:0,0,0
-key_modifiers_iris.keybind.toggleShaders:0,0,0
-key_modifiers_iris.keybind.shaderPackSelection:0,0,0
 key_modifiers_key.justenoughkeys.dropstack:0,0,0
 key_modifiers_key.mcda.firetrail.toggle:0,0,0
 key_modifiers_key.modern_industrialization.activate:0,0,0
@@ -153,3 +150,6 @@ key_modifiers_key.waila.show_overlay:0,0,0
 key_modifiers_key.waila.toggle_liquid:0,0,0
 key_modifiers_key.waila.show_recipe_input:0,0,0
 key_modifiers_key.waila.show_recipe_output:0,0,0
+key_modifiers_iris.keybind.reload:0,0,0
+key_modifiers_iris.keybind.toggleShaders:0,0,0
+key_modifiers_iris.keybind.shaderPackSelection:0,0,0

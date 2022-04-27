@@ -20,6 +20,15 @@
   "hotkeys": {
     "openSettings": {
       "keys": ""
+    },
+    "openChat": {
+      "keys": ""
+    },
+    "openChatFreeMovement": {
+      "keys": ""
+    },
+    "togglePermanent": {
+      "keys": ""
     }
   },
   "config_version": 1

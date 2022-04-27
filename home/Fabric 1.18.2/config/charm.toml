@@ -39,6 +39,8 @@
 "CollectionEnchantment Enabled" = true
 #Allows bundles to be dyed.
 "ColoredBundles Enabled" = true
+#Throw dye into a nether portal to change its color.
+"ColoredNetherPortals Enabled" = true
 #Shows cardinal points and XYZ coordinates when holding a compass.
 "CompassOverlay Enabled" = true
 #Coral can be combined with sea lanterns to make colored variants.
@@ -186,6 +188,8 @@
 "VillagersFollowEmeraldBlocks Enabled" = true
 #Wandering traders have a chance to sell maps to distant structures.
 "WanderingTraderMaps Enabled" = true
+#Iron rusts when in contact with water.
+"WeatheringIron Enabled" = true
 #A witch has a chance to drop a Potion of Luck when killed by a player.
 "WitchesDropLuck Enabled" = true
 #A functional block that adds more efficient recipes for crafting wooden stairs and slabs.
@@ -417,6 +421,16 @@
 	#List of rarer structure IDs and structure tags.
 	#These are more expensive and less likely to be sold.
 	"Rare structures" = ["minecraft:desert_pyramid", "minecraft:jungle_temple", "#minecraft:ocean_ruin"]
+
+[WeatheringIron]
+	#The chance of weathering increases according to the number of block faces touching water.
+	"Faces increase weathering" = true
+	#When more than one block face is touching water, weathering chance increases by this amount per face.
+	"Face multiplier" = 0.008
+	#Chance (out of 1.0) of a block being considered for weathering.
+	"Weathering chance" = 0.006
+	#When a block is above a bubble column, weathering chance is multiplied by this value.
+	"Bubble column chance multiplier" = 4.0
 
 [WitchesDropLuck]
 	#Chance (out of 1.0) of a witch dropping a Potion of Luck when killed by the player.

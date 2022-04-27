@@ -29,11 +29,11 @@ renderDistance:8
 simulationDistance:8
 entityDistanceScaling:1.0
 guiScale:3
-particles:2
+particles:1
 maxFps:60
 difficulty:2
 graphicsMode:0
-ao:0
+ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:fast
@@ -197,9 +197,6 @@ key_key.inventoryhud.openconfig:key.keyboard.comma
 key_key.inventoryhud.togglepot:key.keyboard.unknown
 key_key.inventoryhud.togglearm:key.keyboard.unknown
 key_key.inventoryhud.toggleall:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
-key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.keypad.divide
 key_key.justenoughkeys.dropstack:key.keyboard.q
 key_key.mcda.firetrail.toggle:key.keyboard.semicolon
 key_key.modern_industrialization.activate:key.keyboard.z
@@ -228,7 +225,10 @@ key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
 key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
-soundCategory_master:0.0
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.keypad.divide
+soundCategory_master:0.02112676
 soundCategory_music:0.015926912
 soundCategory_record:1.0
 soundCategory_weather:1.0

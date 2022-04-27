@@ -1218,6 +1218,7 @@ mode = "fancy"
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
 				moobloom = true
+				iceologer = true
 
 			[light_sources.settings.entities.minecraft]
 				zombie_horse = true

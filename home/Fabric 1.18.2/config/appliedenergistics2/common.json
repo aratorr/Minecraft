@@ -35,6 +35,7 @@
     "packetLog": false,
     "craftingLog": false,
     "debugLog": false,
+    "gridLog": false,
     "__comment": "Enable stack trace logging for the chunk loading debug command",
     "chunkLoggerTrace": false
   },

@@ -117,56 +117,6 @@
 			}]
 		}
 		{
-			title: "Waystones"
-			x: -0.5d
-			y: -3.0d
-			subtitle: "Discover your first Waystone, can be found in villages."
-			description: ["You can break the waystones and use them for creative ways of teleportation."]
-			dependencies: ["6EC4700B21DB617B"]
-			id: "23C3589FAFB40AD5"
-			tasks: [{
-				id: "73C759A163CEAEE8"
-				type: "observation"
-				icon: "waystones:waystone"
-				timer: 0L
-				observe_type: 0
-				to_observe: "waystones:waystone"
-			}]
-			rewards: [{
-				id: "7E79E623D0CD9F54"
-				type: "loot"
-				table_id: 13756307348121783L
-			}]
-		}
-		{
-			x: -3.0d
-			y: -2.0d
-			subtitle: "Obtain your first bounty, rewards depend on rarity."
-			description: ["Bounty boards will mostly be found in villages around the world."]
-			dependencies: ["6EC4700B21DB617B"]
-			id: "71B0D2F9318DEBC1"
-			tasks: [{
-				id: "7A4D0D148A41E347"
-				type: "observation"
-				title: "Bounties"
-				icon: {
-					id: "bountiful:bounty"
-					Count: 1b
-					tag: {
-						"bountiful:bounty_data": "{}"
-					}
-				}
-				timer: 0L
-				observe_type: 0
-				to_observe: "bountiful:bountyboard"
-			}]
-			rewards: [{
-				id: "15F460C5E0FFCE17"
-				type: "loot"
-				table_id: 13756307348121783L
-			}]
-		}
-		{
 			title: "Find a Graveyard"
 			icon: "graveyard:skull_with_rib_cage"
 			x: 2.0d

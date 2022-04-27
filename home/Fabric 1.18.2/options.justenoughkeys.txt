@@ -121,9 +121,6 @@ modifiers.key.inventoryhud.togglepot:
 modifiers.key.inventoryhud.togglearm:
 modifiers.key.inventoryhud.toggleall:
 modifiers.key.inventorysorter.sort:
-modifiers.iris.keybind.reload:key.keyboard.left.shift
-modifiers.iris.keybind.toggleShaders:key.keyboard.left.shift
-modifiers.iris.keybind.shaderPackSelection:
 modifiers.key.justenoughkeys.dropstack:key.keyboard.left.control
 modifiers.key.mcda.firetrail.toggle:
 modifiers.key.modern_industrialization.activate:key.keyboard.left.shift
@@ -153,3 +150,6 @@ modifiers.key.waila.show_overlay:
 modifiers.key.waila.toggle_liquid:
 modifiers.key.waila.show_recipe_input:
 modifiers.key.waila.show_recipe_output:
+modifiers.iris.keybind.reload:key.keyboard.left.shift
+modifiers.iris.keybind.toggleShaders:key.keyboard.left.shift
+modifiers.iris.keybind.shaderPackSelection:
