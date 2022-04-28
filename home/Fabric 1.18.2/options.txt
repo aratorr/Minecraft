@@ -24,7 +24,7 @@ mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
-gamma:1.0
+gamma:0.5
 renderDistance:8
 simulationDistance:8
 entityDistanceScaling:1.0
@@ -228,7 +228,7 @@ key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.keypad.divide
-soundCategory_master:0.02112676
+soundCategory_master:0.056338027
 soundCategory_music:0.015926912
 soundCategory_record:1.0
 soundCategory_weather:1.0
