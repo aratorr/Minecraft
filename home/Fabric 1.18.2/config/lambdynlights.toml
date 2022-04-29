@@ -1003,6 +1003,10 @@ mode = "fancy"
 				rocket_ship_v3 = true
 				rocket_ship_v2 = true
 				sentry = true
+				venus_worm = true
+				cyber_spider = true
+				cyber_vex = true
+				balloon_fish = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -1550,10 +1554,20 @@ mode = "fancy"
 
 			[light_sources.settings.entities.besmirchment]
 				werepyre = true
+				beelzebub = true
+				infectious_spit = true
 
 			[light_sources.settings.entities.vanilla_degus]
 				degu = true
 
 			[light_sources.settings.entities.charm]
 				chair = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				end_slime = true
+				end_fish = true
+				cubozoa = true
+				shadow_walker = true
+				silk_moth = true
 
