@@ -1,0 +1,4 @@
+#Mon May 02 02:12:45 MSK 2022
+shadowDistance=80.0
+shadowMapResolution=1024
+MOTION_BLUR=false

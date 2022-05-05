@@ -1,4 +1,4 @@
-#Tue Apr 26 03:19:49 MSK 2022
+#Fri Apr 29 22:40:59 MSK 2022
 shadowDistance=128.0
 shadowMapResolution=1024
 BLOCK_ENTITY_SHADOWS=false

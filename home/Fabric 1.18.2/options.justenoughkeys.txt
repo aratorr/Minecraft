@@ -109,6 +109,7 @@ modifiers.key.extraalchemy.potion_bag_mode:key.keyboard.left.alt
 modifiers.key.extraalchemy.toggle_extra_inv_rings:
 modifiers.Open sound muffler screen:
 modifiers.key.gearreborn.toggle_nv:
+modifiers.key.guild.quest_screen:
 modifiers.ibeeditor.key.editor:key.keyboard.left.control
 modifiers.ibeeditor.key.nbt_editor:key.keyboard.left.shift
 modifiers.ibeeditor.key.snbt_editor:key.keyboard.left.alt
@@ -139,7 +140,7 @@ modifiers.key.wands.wand_action:
 modifiers.key.wands.wand_menu:
 modifiers.key.wands.wand_orientation:
 modifiers.key.wands.wand_invert:
-modifiers.key.wands.wand_fill_circle:key.keyboard.left.control
+modifiers.key.wands.wand_fill_circle:
 modifiers.key.wands.wand_undo:
 modifiers.key.wands.palette_menu:
 modifiers.key.wands.wand_palette_mode:
@@ -150,6 +151,6 @@ modifiers.key.waila.show_overlay:
 modifiers.key.waila.toggle_liquid:
 modifiers.key.waila.show_recipe_input:
 modifiers.key.waila.show_recipe_output:
-modifiers.iris.keybind.reload:key.keyboard.left.shift
-modifiers.iris.keybind.toggleShaders:key.keyboard.left.shift
+modifiers.iris.keybind.reload:
+modifiers.iris.keybind.toggleShaders:
 modifiers.iris.keybind.shaderPackSelection:

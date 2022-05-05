@@ -1,0 +1,4 @@
+#Mon May 02 02:10:57 MSK 2022
+shadowMapResolution=256
+Clouds=1
+Cloudsblur=false

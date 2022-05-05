@@ -109,6 +109,7 @@ key_modifiers_key.extraalchemy.potion_bag_mode:0,0,0
 key_modifiers_key.extraalchemy.toggle_extra_inv_rings:0,0,0
 key_modifiers_Open sound muffler screen:0,0,0
 key_modifiers_key.gearreborn.toggle_nv:0,0,0
+key_modifiers_key.guild.quest_screen:0,0,0
 key_modifiers_ibeeditor.key.editor:0,0,0
 key_modifiers_ibeeditor.key.nbt_editor:0,0,0
 key_modifiers_ibeeditor.key.snbt_editor:0,0,0

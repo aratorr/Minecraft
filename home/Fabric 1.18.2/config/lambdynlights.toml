@@ -1007,6 +1007,8 @@ mode = "fancy"
 				cyber_spider = true
 				cyber_vex = true
 				balloon_fish = true
+				submarine = true
+				cloud_shuttle = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -1458,6 +1460,7 @@ mode = "fancy"
 				camel = true
 				bear = true
 				wombat = true
+				octopus = true
 
 			[light_sources.settings.entities.mtmechs]
 				tunnelarmor = true
@@ -1548,6 +1551,9 @@ mode = "fancy"
 				carboranea = true
 				coal_chunk = true
 				pertilyo = true
+				shimmer_shell = true
+				glow_grease = true
+				flinging_potion = true
 
 			[light_sources.settings.entities.hookshot]
 				hookshot = true
@@ -1556,12 +1562,18 @@ mode = "fancy"
 				werepyre = true
 				beelzebub = true
 				infectious_spit = true
+				final_broom = true
+				witchy_dye = true
 
 			[light_sources.settings.entities.vanilla_degus]
 				degu = true
 
 			[light_sources.settings.entities.charm]
 				chair = true
+				boat = true
+				coral_squid = true
+				endermite_powder = true
+				moobloom = true
 
 			[light_sources.settings.entities.betterend]
 				dragonfly = true
@@ -1570,4 +1582,32 @@ mode = "fancy"
 				cubozoa = true
 				shadow_walker = true
 				silk_moth = true
+
+			[light_sources.settings.entities.computercraft]
+				turtle_player = true
+
+			[light_sources.settings.entities.connectiblechains]
+				chain_knot = true
+				chain_collision = true
+
+			[light_sources.settings.entities.earthtojavamobs]
+				ashen_cow = true
+				albino_cow = true
+				cookie_cow = true
+				cream_cow = true
+				dairy_cow = true
+				pinto_cow = true
+				sunset_cow = true
+				amber_chicken = true
+				bronzed_chicken = true
+				gold_crested_chicken = true
+				midnight_chicken = true
+				skewbald_chicken = true
+				stormy_chicken = true
+
+			[light_sources.settings.entities.bwplus]
+				leshon = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
 

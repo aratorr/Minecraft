@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods"]
+resourcePacks:["vanilla","Fabric Mods","file/FreshAnimations_v1.6.1.zip"]
 incompatibleResourcePacks:[]
 lastServer:auth.minecraftcapes.net
 lang:ru_ru
@@ -186,6 +186,7 @@ key_key.extraalchemy.potion_bag_mode:key.keyboard.k
 key_key.extraalchemy.toggle_extra_inv_rings:key.keyboard.y
 key_Open sound muffler screen:key.keyboard.unknown
 key_key.gearreborn.toggle_nv:key.keyboard.n
+key_key.guild.quest_screen:key.keyboard.j
 key_ibeeditor.key.editor:key.keyboard.i
 key_ibeeditor.key.nbt_editor:key.keyboard.i
 key_ibeeditor.key.snbt_editor:key.keyboard.semicolon
@@ -209,14 +210,14 @@ key_key.trade:key.keyboard.v
 key_key.trashslot.toggle:key.keyboard.t
 key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.deleteAll:key.keyboard.delete
-key_key.wands.wand_mode:key.keyboard.unknown
-key_key.wands.wand_action:key.keyboard.j
+key_key.wands.wand_mode:key.keyboard.v
+key_key.wands.wand_action:key.keyboard.h
 key_key.wands.wand_menu:key.keyboard.y
 key_key.wands.wand_orientation:key.keyboard.x
 key_key.wands.wand_invert:key.keyboard.i
 key_key.wands.wand_fill_circle:key.keyboard.k
 key_key.wands.wand_undo:key.keyboard.u
-key_key.wands.palette_menu:key.keyboard.right.bracket
+key_key.wands.palette_menu:key.keyboard.j
 key_key.wands.wand_palette_mode:key.keyboard.r
 key_key.wands.wand_conf:key.keyboard.unknown
 key_key.weaponmaster.opengui:key.keyboard.v
@@ -227,8 +228,8 @@ key_key.waila.show_recipe_input:key.keyboard.keypad.3
 key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
-key_iris.keybind.shaderPackSelection:key.keyboard.keypad.divide
-soundCategory_master:0.056338027
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+soundCategory_master:0.0
 soundCategory_music:0.015926912
 soundCategory_record:1.0
 soundCategory_weather:1.0

@@ -1,0 +1,2 @@
+#Sun May 01 20:24:32 MSK 2022
+HIGH_QUALITY_Crespecular=true

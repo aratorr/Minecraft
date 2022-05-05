@@ -1,0 +1,231 @@
+{
+  "Generic": {
+    "autoFillContainerThreshold": 36,
+    "redstoneDustUpdateOrderTextAlpha": 0.6,
+    "safeAfkHealthThreshold": 0.0,
+    "villagerOfferUsesDisplay": false,
+    "bossBarMaxEntry": -1,
+    "bossBarScale": 1.0,
+    "chatMessageLimit": 1000,
+    "connectionSimulatedDelay": 0,
+    "daytimeOverrideValue": 0,
+    "legacyF3NLogic": false,
+    "maxChatHudHeight": 160,
+    "netherPortalSoundChance": 0.01,
+    "scoreboardSideBarScale": 1.0,
+    "shulkerTooltipEnchantmentHint": false,
+    "shulkerTooltipFillLevelHint": false,
+    "applyTweakerMoreOptionLabelGlobally": false,
+    "eCraftItemScrollerCompact": false,
+    "ofRemoveSignTextRenderDistance": false,
+    "ofRemoveItemFrameItemRenderDistance": false,
+    "ofUnlockF3FpsLimit": false,
+    "replayFlySpeedLimitMultiplier": 1,
+    "replayAccurateTimelineTimestamp": false,
+    "serverDataSyncerQueryInterval": 1,
+    "serverDataSyncerQueryLimit": 512,
+    "shaderGameTimeAsWorldTime": false,
+    "xmapNoSessionFinalizationWait": false,
+    "lmPickBlockShulkersPorting": false,
+    "hideDisabledOptions": false,
+    "preserveConfigUnknownEntries": true,
+    "tweakerMoreDebugInt": 0,
+    "tweakerMoreDebugDouble": 0.0,
+    "flyDrag": 0.09
+  },
+  "GenericHotkeys": {
+    "copySignTextToClipBoard": {
+      "keys": ""
+    },
+    "refreshInventory": {
+      "keys": ""
+    },
+    "openTweakerMoreConfigGui": {
+      "keys": "APOSTROPHE,RIGHT_BRACKET"
+    }
+  },
+  "Lists": {
+    "prioritizedCommandSuggestions": [],
+    "handRestockListType": "none",
+    "handRestockWhiteList": [
+      "minecraft:bucket"
+    ],
+    "handRestockBlackList": [
+      "minecraft:lava_bucket"
+    ]
+  },
+  "TweakToggles": {
+    "tweakmAutoCleanContainer": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmAutoFillContainer": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmAutoPickSchematicBlock": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmAutoCollectMaterialListItem": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmSafeAfk": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmShowRedstoneDustUpdateOrder": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmDaytimeOverride": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmFlawlessFrames": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmUnlimitedEntityRenderDistance": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "serverDataSyncer": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakerMoreDebugMode": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "TweakHotkeys": {
+    "tweakmAutoCleanContainer": {
+      "keys": ""
+    },
+    "tweakmAutoFillContainer": {
+      "keys": ""
+    },
+    "tweakmAutoPickSchematicBlock": {
+      "keys": ""
+    },
+    "tweakmAutoCollectMaterialListItem": {
+      "keys": ""
+    },
+    "tweakmSafeAfk": {
+      "keys": ""
+    },
+    "tweakmShowRedstoneDustUpdateOrder": {
+      "keys": ""
+    },
+    "tweakmDaytimeOverride": {
+      "keys": ""
+    },
+    "tweakmFlawlessFrames": {
+      "keys": ""
+    },
+    "tweakmUnlimitedEntityRenderDistance": {
+      "keys": ""
+    },
+    "serverDataSyncer": {
+      "keys": ""
+    },
+    "tweakerMoreDebugMode": {
+      "keys": ""
+    }
+  },
+  "DisableToggles": {
+    "disableCameraFrustumCulling": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableLightUpdates": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disablePistonBlockBreakingParticle": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableRedstoneParticle": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableSignTextLengthLimit": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tkrDisableNauseaEffectPorting": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "disableBeaconBeamRendering": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    }
+  },
+  "DisableHotkeys": {
+    "disableCameraFrustumCulling": {
+      "keys": ""
+    },
+    "disableLightUpdates": {
+      "keys": ""
+    },
+    "disablePistonBlockBreakingParticle": {
+      "keys": ""
+    },
+    "disableRedstoneParticle": {
+      "keys": ""
+    },
+    "disableSignTextLengthLimit": {
+      "keys": ""
+    },
+    "tkrDisableNauseaEffectPorting": {
+      "keys": ""
+    },
+    "disableBeaconBeamRendering": {
+      "keys": ""
+    }
+  },
+  "Fixes": {
+    "fixChestMirroring": false,
+    "isScrollStacksFallbackFixPorting": false
+  }
+}
