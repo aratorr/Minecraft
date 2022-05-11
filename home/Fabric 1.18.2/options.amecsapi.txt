@@ -46,6 +46,8 @@ key_modifiers_key.iron-jetpacks.engine:0,0,0
 key_modifiers_key.iron-jetpacks.hover:0,0,0
 key_modifiers_key.iron-jetpacks.descend:0,0,0
 key_modifiers_key.expandedstorage.config:0,0,0
+key_modifiers_raised.down:0,0,0
+key_modifiers_raised.up:0,0,0
 key_modifiers_key.worldeditcui.toggle:0,0,0
 key_modifiers_key.worldeditcui.clear:0,0,0
 key_modifiers_key.worldeditcui.chunk:0,0,0

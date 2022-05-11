@@ -7,7 +7,8 @@
 			"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"bewitchment:magic_protection\",lvl:4s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"gobber2:summoner\",lvl:2s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
 			"{data:{Count:1b,id:\"minecraft:potion\",tag:{Potion:\"extraalchemy:growing_long\"},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
-			"{data:{Count:1b,id:\"minecraft:polished_diorite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+			"{data:{Count:1b,id:\"minecraft:polished_diorite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:polished_andesite\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
 		],
 		// Declares whether cheating mode is on.
 		"cheating": false,

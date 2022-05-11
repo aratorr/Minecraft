@@ -31,7 +31,10 @@
     "preserveConfigUnknownEntries": true,
     "tweakerMoreDebugInt": 0,
     "tweakerMoreDebugDouble": 0.0,
-    "flyDrag": 0.09
+    "flyDrag": 0.09,
+    "tweakmContainerProcessorHintPos": "top_right",
+    "tweakmContainerProcessorHintScale": 1.0,
+    "tweakerMoreDebugBool": false
   },
   "GenericHotkeys": {
     "copySignTextToClipBoard": {
@@ -42,6 +45,9 @@
     },
     "openTweakerMoreConfigGui": {
       "keys": "APOSTROPHE,RIGHT_BRACKET"
+    },
+    "tweakerMoreDebugResetOptionStatistic": {
+      "keys": ""
     }
   },
   "Lists": {
@@ -52,6 +58,13 @@
     ],
     "handRestockBlackList": [
       "minecraft:lava_bucket"
+    ],
+    "tweakmAutoCleanContainerListType": "none",
+    "tweakmAutoCleanContainerWhiteList": [
+      "minecraft:shulker_box"
+    ],
+    "tweakmAutoCleanContainerBlackList": [
+      "minecraft:shulker_box"
     ]
   },
   "TweakToggles": {
@@ -120,6 +133,24 @@
       "hotkey": {
         "keys": ""
       }
+    },
+    "tweakmAutoPutBackExistedItem": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmContainerProcessorHint": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
+    },
+    "tweakmFakeNightVision": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
     }
   },
   "TweakHotkeys": {
@@ -154,6 +185,15 @@
       "keys": ""
     },
     "tweakerMoreDebugMode": {
+      "keys": ""
+    },
+    "tweakmAutoPutBackExistedItem": {
+      "keys": ""
+    },
+    "tweakmContainerProcessorHint": {
+      "keys": ""
+    },
+    "tweakmFakeNightVision": {
       "keys": ""
     }
   },
@@ -199,6 +239,12 @@
       "hotkey": {
         "keys": ""
       }
+    },
+    "disableCameraSubmersionFog": {
+      "enabled": false,
+      "hotkey": {
+        "keys": ""
+      }
     }
   },
   "DisableHotkeys": {
@@ -222,10 +268,309 @@
     },
     "disableBeaconBeamRendering": {
       "keys": ""
+    },
+    "disableCameraSubmersionFog": {
+      "keys": ""
     }
   },
   "Fixes": {
     "fixChestMirroring": false,
     "isScrollStacksFallbackFixPorting": false
+  },
+  "internal": {
+    "configGui": {
+      "category": "FEATURES",
+      "sortingStrategy": "ALPHABET"
+    },
+    "configStatistic": {
+      "autoFillContainerThreshold": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "copySignTextToClipBoard": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "redstoneDustUpdateOrderTextAlpha": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "refreshInventory": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "safeAfkHealthThreshold": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoCleanContainer": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoCleanContainerListType": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoCleanContainerWhiteList": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoCleanContainerBlackList": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoCollectMaterialListItem": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoFillContainer": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoPickSchematicBlock": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmAutoPutBackExistedItem": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmContainerProcessorHint": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmContainerProcessorHintPos": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmContainerProcessorHintScale": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmSafeAfk": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmShowRedstoneDustUpdateOrder": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "villagerOfferUsesDisplay": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "bossBarMaxEntry": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "bossBarScale": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "chatMessageLimit": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "connectionSimulatedDelay": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "daytimeOverrideValue": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "disableCameraFrustumCulling": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "disableBeaconBeamRendering": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "disableLightUpdates": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "disablePistonBlockBreakingParticle": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "disableRedstoneParticle": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "disableSignTextLengthLimit": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "disableCameraSubmersionFog": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "fixChestMirroring": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "flyDrag": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "legacyF3NLogic": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "maxChatHudHeight": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "netherPortalSoundChance": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "prioritizedCommandSuggestions": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "scoreboardSideBarScale": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "shulkerTooltipEnchantmentHint": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "shulkerTooltipFillLevelHint": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmDaytimeOverride": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmFakeNightVision": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmFlawlessFrames": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakmUnlimitedEntityRenderDistance": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "applyTweakerMoreOptionLabelGlobally": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "eCraftItemScrollerCompact": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "handRestockListType": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "handRestockWhiteList": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "handRestockBlackList": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "ofRemoveSignTextRenderDistance": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "ofRemoveItemFrameItemRenderDistance": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "ofUnlockF3FpsLimit": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "replayFlySpeedLimitMultiplier": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "replayAccurateTimelineTimestamp": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "serverDataSyncer": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "serverDataSyncerQueryInterval": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "serverDataSyncerQueryLimit": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "shaderGameTimeAsWorldTime": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "xmapNoSessionFinalizationWait": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "lmPickBlockShulkersPorting": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "isScrollStacksFallbackFixPorting": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tkrDisableNauseaEffectPorting": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "hideDisabledOptions": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "openTweakerMoreConfigGui": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "preserveConfigUnknownEntries": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakerMoreDebugMode": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakerMoreDebugBool": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakerMoreDebugDouble": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakerMoreDebugInt": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakerMoreDebugResetOptionStatistic": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakerMoreDevMixinAudit": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      },
+      "tweakerMoreDevPrintDoc": {
+        "lastUsedTime": 0,
+        "useAmount": 0
+      }
+    }
   }
 }

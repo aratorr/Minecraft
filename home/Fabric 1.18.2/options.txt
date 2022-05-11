@@ -123,6 +123,8 @@ key_key.iron-jetpacks.engine:key.keyboard.x
 key_key.iron-jetpacks.hover:key.keyboard.g
 key_key.iron-jetpacks.descend:key.keyboard.unknown
 key_key.expandedstorage.config:key.keyboard.g
+key_raised.down:key.keyboard.minus
+key_raised.up:key.keyboard.equal
 key_key.worldeditcui.toggle:key.keyboard.unknown
 key_key.worldeditcui.clear:key.keyboard.unknown
 key_key.worldeditcui.chunk:key.keyboard.unknown
@@ -229,7 +231,7 @@ key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:0.0
+soundCategory_master:0.04995813
 soundCategory_music:0.015926912
 soundCategory_record:1.0
 soundCategory_weather:1.0
