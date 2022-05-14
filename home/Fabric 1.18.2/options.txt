@@ -37,7 +37,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:fast
-resourcePacks:["vanilla","Fabric Mods","file/FreshAnimations_v1.6.1.zip"]
+resourcePacks:["vanilla","Fabric Mods"]
 incompatibleResourcePacks:[]
 lastServer:auth.minecraftcapes.net
 lang:ru_ru
