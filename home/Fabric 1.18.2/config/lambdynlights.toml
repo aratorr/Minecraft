@@ -1611,3 +1611,9 @@ mode = "fancy"
 			[light_sources.settings.entities.duckling]
 				duck = true
 
+			[light_sources.settings.entities.llamarama]
+				caravan_trader = true
+				mossy_llama = true
+				woolly_llama = true
+				bumble_llama = true
+

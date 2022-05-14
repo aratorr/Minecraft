@@ -1,0 +1,16 @@
+[
+	{
+		"commandMode": "COMMAND_REDIRECT",
+		"redirectCommand": {
+			"command": "sethome",
+			"redirectTo": "home set"
+		}
+	},
+	{
+	"commandMode": "COMMAND_REDIRECT",
+	"redirectCommand": {
+		"command": "stime",
+		"redirectTo": "time set"
+		}
+	}
+]
