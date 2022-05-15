@@ -3,8 +3,8 @@
   "enable_emerald_upgrade": true,
   "enable_netherite_upgrade": true,
   "enable_gold_upgrade": true,
-  "disable_diamond_crafting": true,
-  "disable_iron_crafting": true,
+  "disable_diamond_crafting": false,
+  "disable_iron_crafting": false,
   "tin_ore": {
     "should_generate": true,
     "size": 9,
