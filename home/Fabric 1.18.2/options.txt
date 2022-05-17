@@ -231,7 +231,7 @@ key_key.waila.show_recipe_output:key.keyboard.keypad.4
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:0.04995813
+soundCategory_master:0.0
 soundCategory_music:0.015926912
 soundCategory_record:1.0
 soundCategory_weather:1.0
