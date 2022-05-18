@@ -98,6 +98,8 @@ modifiers.key.craftingtweaks.decompressAll:
 modifiers.key.craftingtweaks.refill_last:
 modifiers.key.craftingtweaks.refill_last_stack:
 modifiers.key.crawl:
+modifiers.create.keyinfo.toolmenu:
+modifiers.create.keyinfo.toolbelt:
 modifiers.key.dankstorage.construction:
 modifiers.key.dankstorage.lock_slot:
 modifiers.key.dankstorage.pickup_mode:

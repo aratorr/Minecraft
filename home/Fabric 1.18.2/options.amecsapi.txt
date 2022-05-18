@@ -98,6 +98,8 @@ key_modifiers_key.craftingtweaks.decompressAll:0,0,0
 key_modifiers_key.craftingtweaks.refill_last:0,0,0
 key_modifiers_key.craftingtweaks.refill_last_stack:0,0,0
 key_modifiers_key.crawl:0,0,0
+key_modifiers_create.keyinfo.toolmenu:0,0,0
+key_modifiers_create.keyinfo.toolbelt:0,0,0
 key_modifiers_key.dankstorage.construction:0,0,0
 key_modifiers_key.dankstorage.lock_slot:0,0,0
 key_modifiers_key.dankstorage.pickup_mode:0,0,0
