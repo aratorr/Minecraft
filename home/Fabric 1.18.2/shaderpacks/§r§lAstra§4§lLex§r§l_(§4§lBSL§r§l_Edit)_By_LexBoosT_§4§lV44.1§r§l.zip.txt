@@ -1,4 +1,4 @@
-#Wed May 18 18:21:11 MSK 2022
+#Wed May 18 18:31:13 MSK 2022
 COLORED_SHADOWS=true
 shadowDistance=64.0
 LIGHT_JITTER=false

@@ -1,8 +1,8 @@
 {
-  "configVersion": 1,
+  "configVersion": 2,
   "windMode": "WAVES",
   "capeStyle": "SMOOTH",
   "capeMovement": "VANILLA",
-  "gravity": -25,
-  "maxBend": 5
+  "gravity": 25,
+  "heightMultiplier": 6
 }
